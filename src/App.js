@@ -19,7 +19,7 @@ function App() {
         </a>
         <ul>
           <li>Dương Hiển Thế - 19522252</li>
-          <li>Trần Lê Thanh Tùng - 19522496</li>
+          <li>Trần Lê Thanh Kiều - 19522496</li>
           <li>Trương Kiêm Lâm - 19521743</li>
         </ul>
       </header>
